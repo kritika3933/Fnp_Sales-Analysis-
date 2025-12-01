@@ -112,4 +112,3 @@ Git & GitHub
 
 
 
-Overall, the dashboard highlights strong performance driven by festive seasons, popular gifting categories, and consistent demand across several cities. These insights help optimize marketing, inventory planning, and operational strategies to enhance customer experience and maximize revenue.
