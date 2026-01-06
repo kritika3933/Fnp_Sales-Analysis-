@@ -94,13 +94,13 @@ Slicers for date, category, occasion filtering
 Custom theme with consistent green palette
 
 
-🔹 Version Control & Documentation
+• 👋 Let’s Connect & Collaborate
 
-Git & GitHub
+• LinkedIn: www.linkedin.com/in/kritika-singh-713398389
 
-.
+• GitHub:
 
-
+• Email: kritiksingh3933@gmail.com
 
 
 
